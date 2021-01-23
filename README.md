@@ -156,13 +156,10 @@ All in all, the program works correctly and it will offer a new method to preven
 
 ## Authors’ contributions:
 
-All of us took part in the design and the research of our project. Meetings are called to ensure the works are done by all of the members. Here is a detail of our contributions. Hanlai Chen is responsible for data gathering and preprocessing. He wrote scripts for modifying and selecting data. He is also responsible for researching and training the YOLOv4-pedestrian model (YOLOv4-tiny-pedestrian-last.weight and YOLOv4-tiny-pedestrain.cfg). 
+All of us took part in the design and the research of our project. Meetings are called to ensure the works are done by all of the members. Here is a detail of our contributions. Hanlai Chen is responsible for data gathering and preprocessing. He wrote scripts for modifying and selecting data. He is also responsible for researching and training the YOLOv4-pedestrian model (YOLOv4-tiny-pedestrian-last.weight and YOLOv4-tiny-pedestrain.cfg). Yexiong Xu is responsible for distance calculation, homography transformation and video source gathering. He did some experiment on plane selection from different camera perspectives. Qinxi Yu is responsible for the overall frameworks. He wrote codes to call the yolo model to detect people. And connect the detection through with the transformation and displaying the result onto the original images. He did experiments on some transformation methods.
+The team progresses as a whole and all members are kind enough to help to diagnose and debug for other members. Every member is positive and contributed. The presentation and the report are also created by all members each responsible for their section.   
 
-Yexiong Xu is responsible for… 
 
-Qinxi Yu is responsible for…
-
-The team progresses as a whole and all members are kind enough to help to diagnose and debug for other members. Every member is positive and contributed. The presentation and the report are also created by all members aach responsible for their section.   
 
 
 ## References
