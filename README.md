@@ -12,6 +12,8 @@
 
 **Hanlai Chen, Yexiong Xu, Qinxi Yu**
 
+[Report](CSC420-Project-Report.pdf)
+
 2020/12/01
 
 [https://github.com/quincy-u/social-distance-detector](https://github.com/quincy-u/social-distance-detector)
